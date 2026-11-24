@@ -1,0 +1,11 @@
+﻿case_id,rag_minus_to,ragcr_minus_to,ragcr_minus_rag,reconstruction_source
+C1,-0.03800000000000214,0.14853333333333385,0.18653333333333566,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C10,0.029866666666667707,0.09493333333333553,0.0650666666666675,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C2,0.09479999999999977,0.1847999999999994,0.08999999999999986,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C3,0.00013333333333093167,0.12639999999999985,0.12626666666666897,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C4,-0.04400000000000098,0.1920000000000015,0.23600000000000243,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C5,0.04439999999999783,0.22146666666666603,0.17706666666666826,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C6,-0.013866666666669025,0.11453333333333338,0.1284000000000025,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C7,0.0037333333333304797,0.20613333333333328,0.2024000000000028,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C8,0.06213333333333276,0.22053333333333414,0.1584000000000012,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)
+C9,0.24013333333333198,0.4534666666666667,0.2133333333333347,10*full-case mean - 9*leave-one-case mean (aggregate reconstruction; matches direct row-level paired case mean)

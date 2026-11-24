@@ -1,0 +1,5 @@
+﻿flag_definition,condition,condition_en,n_rating_rows,n_needs_review_rows,pct_needs_review_rows,subtype_recovery_status
+resolved_final_manifest,baseline,Template-only,750,0,0.0,All 450 reports verified against generation-time master manifest (0 unresolved flags)
+resolved_final_manifest,mcp,Guideline-RAG,750,0,0.0,All 450 reports verified against generation-time master manifest (0 unresolved flags)
+resolved_final_manifest,peer,RAG + Critique,750,0,0.0,All 450 reports verified against generation-time master manifest (0 unresolved flags)
+resolved_final_manifest,all,All conditions,2250,0,0.0,All 450 reports verified against generation-time master manifest (0 unresolved flags)

@@ -1,0 +1,4 @@
+﻿condition,n_reports,mean_n_chars,mean_n_headings,mean_empty_line_rate,mean_phase_heading_coverage,condition_en
+baseline,150,830.52,4.32,0.384,0.997,Template-only
+mcp,150,1120.46,4.32,0.395,0.997,Guideline-RAG
+peer,150,1496.39,4.3,0.379,0.993,RAG + Critique

@@ -1,0 +1,19 @@
+﻿unit,phase_en,condition_en,n,mean,sd,median,q1,q3
+rating,Discharge,Guideline-RAG,250,3.6371,0.9327,3.725,3.0,4.5
+rating,Discharge,RAG + Critique,250,3.7623,0.9015,3.9,3.1,4.6
+rating,Discharge,Template-only,250,3.6652,0.9743,3.8,3.0,4.5575
+rating,Inpatient,Guideline-RAG,250,3.6656,0.9141,3.75,3.0,4.5
+rating,Inpatient,RAG + Critique,250,3.832,0.8576,4.0,3.4,4.6
+rating,Inpatient,Template-only,250,3.5868,1.0311,3.7,3.0,4.5
+rating,Outpatient,Guideline-RAG,250,3.6848,0.8575,3.7,3.0,4.5
+rating,Outpatient,RAG + Critique,250,3.8684,0.8063,4.0,3.3,4.5975
+rating,Outpatient,Template-only,250,3.6217,0.8726,3.6,3.0,4.5
+report_mean,Discharge,Guideline-RAG,50,3.6371,0.4316,3.701,3.258,3.9415
+report_mean,Discharge,RAG + Critique,50,3.7623,0.372,3.734,3.472,4.005
+report_mean,Discharge,Template-only,50,3.6652,0.4626,3.657,3.464,4.0095
+report_mean,Inpatient,Guideline-RAG,50,3.6656,0.3839,3.647,3.3315,3.9795
+report_mean,Inpatient,RAG + Critique,50,3.832,0.3866,3.824,3.525,4.1765
+report_mean,Inpatient,Template-only,50,3.5868,0.4723,3.582,3.185,3.9185
+report_mean,Outpatient,Guideline-RAG,50,3.6848,0.413,3.696,3.329,4.0015
+report_mean,Outpatient,RAG + Critique,50,3.8684,0.4005,3.823,3.6245,4.1335
+report_mean,Outpatient,Template-only,50,3.6217,0.4513,3.508,3.298,3.9985

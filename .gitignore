@@ -1,0 +1,60 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+config/.env
+config/lightrag.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build output
+/dist
+/build
+
+# Logs
+*.log
+*.error.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Local caches
+*.cache
+
+# Governed study materials and local outputs
+/data/
+/reports/
+/inputs/
+/outputs/
+/submission/
+/报告/
+*.xlsx
+*.xls
+*scores_long*.csv
+*analysis_dataset*.csv
+*manifest*.csv
+*controlled*
+*.zip
+*.pdf
+
+# RAG storage (guideline corpus index - not redistributable)
+rag_storage/
+
+# R / Python artifacts
+.Rhistory
+.RData
+
+# Windows reserved filename sometimes present
+nul

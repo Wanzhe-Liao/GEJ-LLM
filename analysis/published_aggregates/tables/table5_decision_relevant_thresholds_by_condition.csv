@@ -1,0 +1,4 @@
+﻿condition_en,n_reports,n_wt_ge4,pct_wt_ge4,pct_wt_ge4_lower,pct_wt_ge4_upper,n_safety_lt3,pct_safety_lt3,pct_safety_lt3_lower,pct_safety_lt3_upper,n_any_rater_safety_le2,pct_any_rater_safety_le2,pct_any_rater_safety_le2_lower,pct_any_rater_safety_le2_upper
+Guideline-RAG,150,37,24.7,18.5,32.1,11,7.3,4.1,12.7,66,44.0,36.3,52.0
+RAG + Critique,150,49,32.7,25.7,40.5,3,2.0,0.7,5.7,48,32.0,25.1,39.8
+Template-only,150,37,24.7,18.5,32.1,18,12.0,7.7,18.2,79,52.7,44.7,60.5

@@ -1,0 +1,4 @@
+﻿contrast,observed_case_mean_difference,observed_case_sd_difference,observed_t,n_cases,n_assignments,exact_p_two_sided,max_abs_t_familywise_p,n_permutations_completed,permutation_p_two_sided,inference
+mcp - baseline,0.03793333333333315,0.08338121883446559,1.4386421097281015,10,1024,0.177734375,0.337890625,1024,0.177734375,exact complete sign-flip enumeration over reconstructed case-level paired differences
+peer - baseline,0.19628,0.10095730328420874,6.148062982531512,10,1024,0.001953125,0.001953125,1024,0.001953125,exact complete sign-flip enumeration over reconstructed case-level paired differences
+peer - mcp,0.15834666666666686,0.055214283355122996,9.068959988877122,10,1024,0.001953125,0.001953125,1024,0.001953125,exact complete sign-flip enumeration over reconstructed case-level paired differences

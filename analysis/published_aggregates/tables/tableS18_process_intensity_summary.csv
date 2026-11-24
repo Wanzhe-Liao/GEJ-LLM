@@ -1,0 +1,2 @@
+﻿n_cases,n_phases,n_models,n_case_phase,n_reports_total,n_raters,n_rating_rows,n_reports_baseline,n_reports_mcp,n_reports_peer,llm_calls_baseline,llm_calls_mcp_query,llm_calls_mcp_optimize,llm_calls_peer_review,llm_calls_peer_refine,llm_calls_total,llm_calls_per_report,llm_calls_per_case_phase
+10,3,5,30,450,5,2250,150,150,150,150,150,150,750,150,1350,3,45
